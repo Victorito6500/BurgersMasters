@@ -1,0 +1,181 @@
+.main-img {
+  background-image: url("../img/main-img2.jpg");
+  background-position: 70% 30%;
+}
+.main-img > p {
+  color: white;
+  font-family: var(--font-titulo);
+  font-weight: 700;
+  font-size: 3rem;
+  text-shadow: -6px 2px 2px black;
+  text-align: center;
+  margin-bottom: 70px;
+  padding: 10px 15px;
+  align-self: flex-end;
+  transition: all 500ms;
+  animation: pulse 1s linear 0s infinite alternate;
+}
+.main-img .arrow {
+  position: absolute;
+  top: 830px;
+  font-size: 2rem;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+main div {
+  margin: 50px 0 50px 0;
+  padding: 25px;
+  background-color: var(--naranja-transparente);
+  border: 3px solid var(--naranja);
+  border-radius: 8px;
+  position: relative;
+  box-shadow: 1px 1px 5px black;
+}
+main div section {
+  margin-bottom: 50px;
+}
+main div section h2 {
+  margin-bottom: 10px;
+}
+main div section article {
+  margin-bottom: 10px;
+}
+main div section article .titulo-comida {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  font-size: 1rem;
+}
+main div section article .descripcion-comida {
+  font-size: 0.8rem;
+  color: rgb(155, 155, 155);
+}
+
+.bg-img {
+  position: absolute;
+  animation: pulse-bg 1.5s linear 0s infinite alternate;
+  display: none;
+}
+.drink-bg {
+  top: -50px;
+  left: -135px;
+}
+.water-bg {
+  top: 0;
+  right: -200px;
+}
+.beer-bg {
+  top: 170px;
+  right: -200px;
+}
+.chicken-bg {
+  top: 350px;
+  left: -140px;
+}
+.nachos-bg {
+  top: 500px;
+  right: -250px;
+}
+.onion-bg {
+  top: 400px;
+  right: -200px;
+}
+.fries-bg {
+  top: 600px;
+  right: -200px;
+}
+.burger1-bg {
+  top: 970px;
+  right: -230px;
+}
+.burger2-bg {
+  top: 750px;
+  left: -140px;
+}
+.burger3-bg {
+  top: 800px;
+  right: -200px;
+}
+.hotdog-bg {
+  top: 1150px;
+  left: -140px;
+}
+.ribs-bg {
+  top: 1250px;
+  right: -200px;
+}
+.cake-bg {
+  top: 1600px;
+  right: -200px;
+}
+.milkshake-bg {
+  top: 1460px;
+  left: -135px;
+}
+
+.firma {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 50px auto;
+}
+.firma img {
+  width: 100px;
+}
+.firma h3 {
+  font-family: var(--font-titulo);
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: center;
+}
+
+@media only screen and (min-width: 800px) {
+  .main-img > p {
+    margin-bottom: 100px;
+    font-size: 5rem;
+  }
+  .main-img .arrow {
+    top: 810px;
+    font-size: 3rem;
+  }
+
+  main div {
+    padding: 50px;
+  }
+  main div section h2 {
+    font-size: 1.8rem;
+  }
+  main div section article .titulo-comida {
+    font-size: 1.3rem;
+  }
+  main div section article .descripcion-comida {
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .main-img p {
+    margin-top: 200px;
+    font-size: 6rem;
+    align-self: unset;
+  }
+  .main-img .arrow {
+    top: 600px;
+    font-size: 4rem;
+  }
+
+  main {
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .bg-img {
+    display: initial;
+  }
+}
