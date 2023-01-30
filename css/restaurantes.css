@@ -1,0 +1,152 @@
+.main-img {
+  background-image: url("../img/main-img3.jpg");
+}
+.main-img > p {
+  color: white;
+  font-family: var(--font-titulo);
+  font-weight: 700;
+  font-size: 3rem;
+  text-shadow: -6px 2px 2px black;
+  text-align: center;
+  margin-bottom: 70px;
+  padding: 10px 15px;
+  align-self: flex-end;
+  transition: all 500ms;
+  animation: pulse 1s linear 0s infinite alternate;
+}
+.main-img .arrow {
+  position: absolute;
+  top: 830px;
+  font-size: 2rem;
+}
+
+main {
+  padding: 15px;
+}
+main > div section {
+  margin: 50px 0;
+  background-color: var(--naranja-transparente);
+  border: 3px solid var(--naranja);
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px black;
+}
+main > div section h3 {
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+}
+
+.restaurante-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.restaurante-img img {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 3px 2px 10px black;
+  transition: all 500ms;
+}
+.restaurante-img img:hover {
+  transform: scale(1.02);
+}
+.btn-reserva {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px 0px;
+}
+.btn-reserva > button {
+  align-self: flex-end;
+  padding: 10px 15px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border: 3px solid black;
+  border-radius: 10px;
+  background-color: var(--naranja);
+  cursor: pointer;
+  transition: all 500ms;
+}
+.btn-reserva > button:hover {
+  background-color: var(--naranja-oscuro);
+  transform: scale(1.1);
+}
+
+.firma {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 50px auto;
+}
+.firma img {
+  width: 100px;
+}
+.firma h3 {
+  font-family: var(--font-titulo);
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: center;
+}
+
+@media only screen and (min-width: 800px) {
+  .main-img > p {
+    margin-bottom: 100px;
+    font-size: 5rem;
+  }
+  .main-img .arrow {
+    top: 810px;
+    font-size: 3rem;
+  }
+
+  main > div section {
+    padding: 50px;
+  }
+  main > div section h3 {
+    font-size: 1.8rem;
+  }
+
+  .restaurante-img img {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .main-img p {
+    margin-top: 200px;
+    font-size: 6rem;
+    align-self: unset;
+  }
+  .main-img .arrow {
+    top: 600px;
+    font-size: 4rem;
+  }
+
+  main {
+    padding: 0;
+  }
+  main > div {
+    padding: 0;
+  }
+  main > div section {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+  }
+
+  .datos-restaurante {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+  }
+  .btn-reserva {
+    margin: 0;
+    margin-top: auto;
+  }
+  .restaurante-img {
+    justify-content: flex-end;
+  }
+  .restaurante-img img {
+    width: 400px;
+  }
+}

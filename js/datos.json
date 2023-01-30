@@ -1,0 +1,204 @@
+{
+  "carta": [
+    {
+      "titulo": "Bebidas",
+      "productos": [
+        {
+          "nombre": "Agua (0.5L)",
+          "precio": "1.00€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Agua (1.5L)",
+          "precio": "2.00€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Agua con gas (0.5L)",
+          "precio": "1.50€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Refresco (0.5L)",
+          "precio": "2.00€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Red Bull",
+          "precio": "2.50€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Caña",
+          "precio": "1.50€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Pinta",
+          "precio": "2.50€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Café Espresso",
+          "precio": "1.00€",
+          "descripcion": ""
+        },
+        {
+          "nombre": "Café con Leche",
+          "precio": "1.50€",
+          "descripcion": ""
+        }
+      ]
+    },
+    {
+      "titulo": "Entrantes",
+      "productos": [
+        {
+          "nombre": "Nachos Master's",
+          "precio": "9.50€",
+          "descripcion": "Nachos, pulled pork, guacamole, pico de gallo, jalapeños, crema agria, queso y salsa Master's BBQ"
+        },
+        {
+          "nombre": "Fingers de pollo",
+          "precio": "8.00€",
+          "descripcion": "Tiras de pollo frito con nuestra salsa kimchee-chipotle"
+        },
+        {
+          "nombre": "Aros de cebolla",
+          "precio": "7.50€",
+          "descripcion": "Aros de cebolla frita en nuestra salsa BBQ"
+        },
+        {
+          "nombre": "Alitas de pollo",
+          "precio": "7.90€",
+          "descripcion": "Alitas de pollo marinadas con 3 propuestas a elegir: clásicas, BBQ ó picantes"
+        },
+        {
+          "nombre": "Patatas fritas Cheese & Bacon",
+          "precio": "8.00€",
+          "descripcion": "Bowl de patatas fritas con nuestras especias y salsa de queso con taquitos de bacon"
+        },
+        {
+          "nombre": "Ensalada Master's",
+          "precio": "7.90€",
+          "descripcion": "Verdura variada, huevo, parmesano, tomate cherry, pollo crujiente y salsa curry-mango"
+        }
+      ]
+    },
+    {
+      "titulo": "Master's Burgers",
+      "productos": [
+        {
+          "nombre": "Master's Burger",
+          "precio": "10.90€",
+          "descripcion": "200gr de vaca nacional, costilla deshuesada, salsa BBQ, bacon, lechuga, queso monterrey y picante"
+        },
+        {
+          "nombre": "Big Master's",
+          "precio": "11.50€",
+          "descripcion": "2 carnes de 125gr de vaca nacional, salsa brook, queso monterrey, cebolla frita, pastrami, pepinillo y polvo de bacon"
+        },
+        {
+          "nombre": "Scarlett Burger",
+          "precio": "12.90€",
+          "descripcion": "230gr de vaca nacional, cebolla frita, cheddar, salteado de cebolla, bacon, emulsion de yema de huevo y mayo de chimichurri"
+        },
+        {
+          "nombre": "Master's Goat",
+          "precio": "12.90€",
+          "descripcion": "2 carnes de 125gr de vaca nacional, 2 capas de queso de cabra, cebolla caramelizada, salsa sweet-mango, bacon, tomate"
+        },
+        {
+          "nombre": "Manhattan Tower",
+          "precio": "13.00€",
+          "descripcion": "4 carnes de 100gr, 4 capas de queso cheddar, 4 capas de bacon, pepinillos y salsa queso."
+        },
+        {
+          "nombre": "Vaca Vieja",
+          "precio": "14.00€",
+          "descripcion": "230gr de carne de vaca madurada, tuétano, lascas de entrecone, mayonesa roquefort, queso payoyo, cebolla frita y lechuga."
+        }
+      ]
+    },
+    {
+      "titulo": "Más que Burgers",
+      "productos": [
+        {
+          "nombre": "Hot Dog BBQ",
+          "precio": "7.50€",
+          "descripcion": "Salchicha de ternera estilo Chicago, pulled pork, polvo de bacon crujiente, cebolla frita y salsa BBQ"
+        },
+        {
+          "nombre": "Chicken Sandwich",
+          "precio": "8.00€",
+          "descripcion": "Pollo deshilachado TEX-MEX, ensalada de col, bacon crujiente, queso y salsa cheddar"
+        },
+        {
+          "nombre": "Costillas BBQ",
+          "precio": "14.90€",
+          "descripcion": "Costillar de cerdo lacado cocinado y ahumado a baja temperatura con nuestra salsa BBQ."
+        },
+        {
+          "nombre": "Pizza Burger",
+          "precio": "9.00€",
+          "descripcion": "Masa de pizza rellena de cheddar, base de salsa BBQ, queso mozzarella rallado, carne burger, salsa cheddar, taquitos de bacon, lechuga, pepinillos y salsa burger"
+        }
+      ]
+    },
+    {
+      "titulo": "Postres",
+      "productos": [
+        {
+          "nombre": "Cheesecake",
+          "precio": "5.00€",
+          "descripcion": "Tarta de queso horneada con corazón cremoso, acompañada de salsa de chocolate y toffe"
+        },
+        {
+          "nombre": "La Torriburger",
+          "precio": "5.50€",
+          "descripcion": "Torrija de pan brioche con helado y canela"
+        },
+        {
+          "nombre": "Brownie con Helado",
+          "precio": "4.20€",
+          "descripcion": "Brownie con helado, salsa de chocolate y cacahuetes crocanty"
+        },
+        {
+          "nombre": "Master's Shakes",
+          "precio": "9.00€",
+          "descripcion": "Batidos milkshake, elige un sabor entre: fresa, vainilla, nutella, oreo, kinder bueno, kit kat, nestle jungly, filipinos blancos, platano toffe ó chocolate cacahuete"
+        }
+      ]
+    }
+  ],
+  "restaurantes": [
+    {
+      "direccion": "Burger's Masters C/ Nombre calle, 1",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nam, ullam aut fugiat, totam veritatis perspiciatis nesciunt sint modi similique tenetur vero earum nulla, quis soluta amet hic dignissimos at inventore! Inventore totam earum quos sapiente provident debitis rerum obcaecati architecto minus possimus et veniam officiis voluptate, aliquid non tempore ratione alias ab! Porro unde impedit quia hic nisi, laborum voluptate voluptatum totam reiciendis provident aut accusamus iusto officia? Voluptates.",
+      "img": "img/restaurant1.jpg"
+    },
+    {
+      "direccion": "Burger's Masters C/ Nombre calle, 2",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nam, ullam aut fugiat, totam veritatis perspiciatis nesciunt sint modi similique tenetur vero earum nulla, quis soluta amet hic dignissimos at inventore! Inventore totam earum quos sapiente provident debitis rerum obcaecati architecto minus possimus et veniam officiis voluptate, aliquid non tempore ratione alias ab! Porro unde impedit quia hic nisi, laborum voluptate voluptatum totam reiciendis provident aut accusamus iusto officia? Voluptates.",
+      "img": "img/restaurant2.jpg"
+    },
+    {
+      "direccion": "Burger's Masters C/ Nombre calle, 3",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nam, ullam aut fugiat, totam veritatis perspiciatis nesciunt sint modi similique tenetur vero earum nulla, quis soluta amet hic dignissimos at inventore! Inventore totam earum quos sapiente provident debitis rerum obcaecati architecto minus possimus et veniam officiis voluptate, aliquid non tempore ratione alias ab! Porro unde impedit quia hic nisi, laborum voluptate voluptatum totam reiciendis provident aut accusamus iusto officia? Voluptates.",
+      "img": "img/restaurant3.jpg"
+    },
+    {
+      "direccion": "Burger's Masters C/ Nombre calle, 4",
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nam, ullam aut fugiat, totam veritatis perspiciatis nesciunt sint modi similique tenetur vero earum nulla, quis soluta amet hic dignissimos at inventore! Inventore totam earum quos sapiente provident debitis rerum obcaecati architecto minus possimus et veniam officiis voluptate, aliquid non tempore ratione alias ab! Porro unde impedit quia hic nisi, laborum voluptate voluptatum totam reiciendis provident aut accusamus iusto officia? Voluptates.",
+      "img": "img/restaurant4.jpg"
+    }
+  ],
+  "aboutus": {
+    "p1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid nam, ullam aut fugiat, totam veritatis perspiciatis nesciunt sint modi similique tenetur vero earum nulla, quis soluta amet hic dignissimos at inventore! Inventore totam earum quos sapiente provident debitis rerum obcaecati architecto minus possimus et veniam officiis voluptate, aliquid non tempore ratione alias ab! Porro unde impedit quia hic nisi, laborum voluptate voluptatum totam reiciendis provident aut accusamus iusto officia? Voluptates.",
+    "p2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim expedita facilis ipsam a ducimus excepturi amet quidem neque exercitationem incidunt alias suscipit accusamus, eum omnis maxime recusandae nemo corporis porro eos hic unde aspernatur eius sint illum? Esse distinctio numquam molestias placeat pariatur, obcaecati, aliquid quidem hic recusandae officiis soluta?",
+    "p3": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt atque, doloremque odio pariatur id est quisquam veritatis in maiores repudiandae adipisci similique? Deserunt illo molestias aut alias adipisci recusandae exercitationem eligendi voluptas possimus repellendus, nisi libero ea vel nulla. Autem ducimus quisquam nesciunt, in labore laboriosam fugit consequatur quibusdam, sequi deleniti explicabo, omnis velit expedita dicta ea minima commodi eius id rerum totam quia obcaecati. Quisquam ipsum inventore voluptate at.",
+    "p4": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente asperiores saepe nostrum quaerat velit possimus voluptatem eaque eligendi itaque quisquam?",
+    "img1": "img/about1.jpg",
+    "img2": "img/about2.jpg"
+  }
+}
